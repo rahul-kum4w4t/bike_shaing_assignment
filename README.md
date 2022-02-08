@@ -24,4 +24,4 @@ Price and marketing are such variables which directly relates to bike rental but
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rahul-kum4w4t] - feel free to contact me!
