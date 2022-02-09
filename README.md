@@ -1,5 +1,5 @@
 # Project Name
-> Building the model to predict the affect of rental bike sales.
+> Building the model to predict the affect on sale of rental bikes.
 
 
 ## General Information
